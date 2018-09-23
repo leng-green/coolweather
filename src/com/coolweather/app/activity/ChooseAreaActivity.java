@@ -50,7 +50,7 @@ public class ChooseAreaActivity extends Activity {
 	private List<City> cityList;
 	/**
 	 * 县列表
-	 */
+	 */	
 	private List<County> countyList;
 	/**
 	 * 选中的省份
